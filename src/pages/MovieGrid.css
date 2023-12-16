@@ -60,3 +60,25 @@
     color: #f7d354;
 }
 
+@media(max-width: 1024px){
+    .movies_container{
+        margin: 0 auto;
+    }
+
+    .movies_container div{
+        width: 50%;
+        margin-right: 0;
+
+    }
+}
+@media(max-width: 768px){
+    .movies_container{
+        margin: 0 auto;
+    }
+
+    .movies_container div{
+        width: 100%;
+        margin-right: 0;
+
+    }
+}
