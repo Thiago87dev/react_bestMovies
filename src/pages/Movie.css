@@ -49,10 +49,30 @@
     gap: 0.5rem;
 }
 
-.description{
-   padding-bottom: 10rem; 
-}
-
 .description p{
     line-height: 1.4rem;
+}
+
+@media(max-width: 768px){
+
+    .movie_page{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .img img{
+        width: 250px;
+    }
+
+    .description{
+        display: flex;
+        flex-direction: column;
+        padding: .8rem;
+        align-items: center;
+    }
+
+    .description p{
+        text-align: center;
+    }
 }
