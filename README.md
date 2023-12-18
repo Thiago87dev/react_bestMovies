@@ -17,8 +17,8 @@
 * Git/GitHub
 
 ### 🌐 Website
-:link: Link to access the website: 
-[https://thiago87dev.github.io/react_bestMovies/](https://thiago87dev.github.io/react_bestMovies/){:target="_blank"}
+:link: Link to access the website:<br/>
+[https://thiago87dev.github.io/react_bestMovies/](https://thiago87dev.github.io/react_bestMovies/)
 
 
 ### 📸 Screenshots
