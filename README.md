@@ -1,6 +1,8 @@
 # Best Movies 🎦
 ## React + Vite
 
+A website where you can see the top 20 rated movies on the home page and, in addition, you can search for any movie through the search field and receive the results of the top 20 rated movies.
+
 
 ### 💡 Functionalities 
 
