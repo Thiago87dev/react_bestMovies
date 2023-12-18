@@ -17,7 +17,7 @@
 * Git/GitHub
 
 ### 🌐 Website
-:link: Link to access the website: 
+:link: Link to access the website: <br/>
 <a href="https://thiago87dev.github.io/react_bestMovies/" target="_blank">https://thiago87dev.github.io/react_bestMovies/</a>
 
 
