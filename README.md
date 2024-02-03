@@ -12,7 +12,7 @@ A website where you can see the top 20 rated movies on the home page and, in add
 * The home page shows the 20 highest rated films on the TMDB website
 * Enter a movie name (in English) and get top 20 rated results
 * You can see the movie details by clicking the 'detalhes' button
-* Response
+* Responsive
 
 ###  🛠️ Built with
 
